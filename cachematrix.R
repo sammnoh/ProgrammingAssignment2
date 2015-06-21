@@ -41,3 +41,5 @@ cacheSolve <- function(x, ...) {
         i
         #print the inverse matrix vector i
 }
+
+#URL: https://github.com/sammnoh/ProgrammingAssignment2/blob/master/cachematrix.R
